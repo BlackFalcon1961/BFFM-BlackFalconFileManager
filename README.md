@@ -10,4 +10,4 @@ or
 
 Scan this QR code with FBI :
 
-![qr](https://github.com/BlackFalcon1961/BFFM-BlackFalconFileManager/blob/main/.github/images/bffm-qr.png)
+![qr](https://user-images.githubusercontent.com/60007836/130388073-0c01dca7-b98d-46fc-be9c-e1fab159f4ba.png)
