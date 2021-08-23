@@ -1,6 +1,6 @@
 # BFFM - BlackFalcon File Manager
 
-A fork of FBI ([Steveice10](https://github.com/Steveice10/FBI)) for Nintendo 3DS, translated in French. 
+A fork of FBI ([Steveice10](https://github.com/Steveice10/FBI)) for Nintendo 3DS/2DS, translated in French. 
 
 Some features have been disabled for added security and stability
 
